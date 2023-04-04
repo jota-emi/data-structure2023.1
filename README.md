@@ -8,7 +8,7 @@ In this section are available all links to my DataQuest certificates.
 
 ### Python Introduction
 - [Introduction to Python for Data Engineering: Part I](https://app.dataquest.io/verify_cert/B4SALO3WK5OTXOKPT4P6/)
-- [Introduction to Python for Data Engineering: Part II]()
+- [Introduction to Python for Data Engineering: Part II](https://app.dataquest.io/verify_cert/QCJYRFSAPONXQTCVXQ69/)
 ### Introduction to Algorithms
 
 ### The Command Line and Git
@@ -27,4 +27,4 @@ In this section are available all links to my DataQuest certificates.
 ## Tasks
 
 ### Week II
-- [Guided Project: Profitable App Profiles for the App Store and Google Play Markets]()
+- [Guided Project: Profitable App Profiles for the App Store and Google Play Markets](https://github.com/jota-emi/data-structure2023.1/blob/main/tasks/guided_project_refactored/guided_project_refactoried.ipynb)
