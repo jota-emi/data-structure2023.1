@@ -26,5 +26,13 @@ In this section are available all links to my DataQuest certificates.
 
 ## Tasks
 
-### Week II
-- [Guided Project: Profitable App Profiles for the App Store and Google Play Markets](https://github.com/jota-emi/data-structure2023.1/blob/main/tasks/guided_project_refactored/guided_project_refactoried.ipynb)
+### Week 02
+- [Guided Project: Profitable App Profiles for the App Store and Google Play Markets](https://github.com/jota-emi/data-structure2023.1/blob/main/tasks/week02/guided_project_refactored/guided_project_refactoried.ipynb)
+
+### Week 03
+- [Code interview challenge and co-creation using Large Language Model (LLM) and ChatGPT](https://github.com/jota-emi/data-structure2023.1/blob/main/tasks/week03/Code_Interview_Linked_Queue_Stacks.ipynb)
+    - [Video Link]()
+
+### Week 04
+- [Recursive code interview challenge and co-creation using Large Language Model (LLM) and ChatGPT](https://github.com/jota-emi/data-structure2023.1/blob/main/tasks/week04/Code_Interview_recursion.ipynb)
+    - [Video Link]()
