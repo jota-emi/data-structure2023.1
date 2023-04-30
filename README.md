@@ -36,3 +36,6 @@ In this section are available all links to my DataQuest certificates.
 ### Week 04
 - [Recursive code interview challenge and co-creation using Large Language Model (LLM) and ChatGPT](https://github.com/jota-emi/data-structure2023.1/blob/main/tasks/week04/Code_Interview_recursion.ipynb)
     - [Video Link]()
+
+### Week 06
+- [Code interview challenge and co-creation using Large Language Model (LLM) and ChatGPT - BinarySearch](https://github.com/jota-emi/data-structure2023.1/blob/main/tasks/week06/Week_06_bst.ipynb)
