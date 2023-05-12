@@ -41,4 +41,4 @@ In this section are available all links to my DataQuest certificates.
 - [Code interview challenge and co-creation using Large Language Model (LLM) and ChatGPT - BinarySearch](https://github.com/jota-emi/data-structure2023.1/blob/main/tasks/week06/Week_06_bst.ipynb)
 
 ### Week 08
-- [Exercise List - Fundamentals of Graphs/Networks and networkx Library](https://github.com/jota-emi/data-structure2023.1/blob/main/tasks/week08/exercice.ipynb)
+- [Exercise List - Fundamentals of Graphs/Networks and networkx Library](https://github.com/jota-emi/data-structure2023.1/blob/main/tasks/week08/exercise.ipynb)
